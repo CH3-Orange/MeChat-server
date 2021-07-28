@@ -1,5 +1,0 @@
-Manifest-Version: 1.0
-Main-Class: com.example.orangepi.me.ServerUser
-Class-Path: protobuf-java-3.6.1.jar mysql-connector-java-8.0.20.jar org.
- eclipse.paho.client.mqttv3-1.2.0.jar
-
